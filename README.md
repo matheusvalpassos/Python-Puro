@@ -7,18 +7,18 @@ Este é um sistema de finanças pessoais desenvolvido durante o curso 4Days 4 Pr
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 ```
-# Exemplo:
-python --version  # Verifica se o Python está instalado
-pip --version   # Verifica se o pip está instalado (gerenciador de pacotes do Python)
+###  Instalação
 
-# Se não tiver o pip, instale:
-python -m ensurepip --upgrade
+Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
+Diga como essa etapa será:
+
+```bash
 # Clone o repositório:
-git clone [https://github.com/seu-nome-de-usuario/nome-do-seu-repositorio.git](https://github.com/seu-nome-de-usuario/nome-do-seu-repositorio.git)
+git clone [https://github.com/matheusvalpassos/Python-Puro.git](https://github.com/matheusvalpassos/Python-Puro.git)
 
 # Acesse a pasta do projeto:
-cd sistema-financas-pessoais
+cd Python-Puro  # O nome da pasta será o mesmo do repositório
 
 # Crie um ambiente virtual (recomendado):
 python3 -m venv .venv  # Cria o ambiente virtual
