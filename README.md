@@ -15,19 +15,19 @@ Diga como essa etapa será:
 
 ```bash
 # Clone o repositório:
-git clone [https://github.com/matheusvalpassos/Python-Puro.git](https://github.com/matheusvalpassos/Python-Puro.git)
+git clone [https://github.com/matheusvalpassos/Sistema-Financas-Pessoais.git](https://github.com/matheusvalpassos/Sistema-Financas-Pessoais.git)
 
 # Acesse a pasta do projeto:
-cd Python-Puro  # O nome da pasta será o mesmo do repositório
+cd Sistema-Financas-Pessoais  # O nome da pasta será o mesmo do repositório
 
 # Crie um ambiente virtual (recomendado):
-python3 -m venv .venv  # Cria o ambiente virtual
-source .venv/bin/activate  # Ativa o ambiente virtual (Linux/macOS)
-.venv\Scripts\activate  # Ativa o ambiente virtual (Windows)
+python3 -m venv.venv  # Cria o ambiente virtual
+source.venv/bin/activate  # Ativa o ambiente virtual (Linux/macOS).venv\Scripts\activate  # Ativa o ambiente virtual (Windows)
 
 # Instale as dependências:
 pip install -r requirements.txt
 ```
+
 #⚙️ Executando os testes
 
 Exemplo:
