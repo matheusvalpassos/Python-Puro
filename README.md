@@ -1,8 +1,8 @@
-#🖥 Sistema de Finanças Pessoais
+# 🖥 Sistema de Finanças Pessoais
 
 Este é um sistema de finanças pessoais desenvolvido durante o curso intensivo 4Days 4 Projects do Pythonando. Ele permite que você gerencie suas contas bancárias, realize transferências, registre suas movimentações e visualize via terminal com opção de gráficos via UI.
 
-##▶  Começando
+## ▶  Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
@@ -28,7 +28,7 @@ source.venv/bin/activate  # Ativa o ambiente virtual (Linux/macOS).venv\Scripts\
 pip install -r requirements.txt
 ```
 
-#⚙️ Executando os testes
+# ⚙️ Executando os testes
 
 Exemplo:
 python main.py  # Execute o script principal
